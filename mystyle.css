@@ -1,3 +1,7 @@
+*{
+	font-family: Raleway;
+}
+
 /* PORTLET LISTAGEM */
 .food-extract-list {
     margin: auto;
@@ -67,6 +71,7 @@
 .item-value-klabin {
     width: 20%;
     border-right: 1px solid rgb(204, 204, 204);
+    padding: 8px 0;
 }
 
 .item-value-total {
