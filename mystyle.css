@@ -1,0 +1,61 @@
+/* PORTLET LISTAGEM */
+.food-extract-list {
+    margin: auto;
+    width: 60%;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+/*[ Banner ]*/
+.food-extract-banner {    
+	background-color: rgb(237, 237, 237);    
+    margin: 1%;
+}
+.banner-content {
+    text-align: left; 
+    padding: 10px;   
+}
+.banner-content div {
+    font-weight: bold;
+}
+.banner-content span {
+    color: rgb(155, 155, 155);
+}
+
+/*[ Table ]*/
+.food-extract-detail {    
+    margin: 1%;
+}
+
+.food-extract-item { 
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 5px;
+    padding: 10px; 
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.food-extract-item > div {   
+    float: left;
+}
+
+.item-info {
+    width: 20%;
+}
+
+.item-value-client {
+    width: 20%;
+}
+
+.item-value-klabin {
+    width: 20%;
+    border-right: 1px solid rgb(204, 204, 204);
+}
+
+.item-value-total {
+    width: 20%;
+}
