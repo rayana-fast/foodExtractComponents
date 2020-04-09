@@ -43,6 +43,19 @@
     float: left;
 }
 
+.item-image-bg {
+    width: 60px;
+    height: 60px;
+    background-color: rgb(52, 64, 114);
+    border-radius: 40px;
+}
+
+.item-image {
+    margin-top: 9px;
+    margin-left: 6.2px;
+    fill: white;
+}
+
 .item-info {
     width: 20%;
 }
@@ -58,4 +71,8 @@
 
 .item-value-total {
     width: 20%;
+}
+
+.item-lengend {
+    color: rgb(120, 120, 120)
 }
